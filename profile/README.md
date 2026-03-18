@@ -37,12 +37,10 @@
 ---
 
 ### 👨‍👩‍👧‍👦 Meet the Team
-| 이름 | 역할 | GitHub |
-| :--- | :--- | :--- |
-| **팀원이름** |  | [@GitHubID](https://github.com/GitHubID) |
-| **팀원이름** |  | [@GitHubID](https://github.com/GitHubID) |
-| **팀원이름** |  | [@GitHubID](https://github.com/GitHubID) |
-| **하현수** |  | [@ENERGYMACARON](https://github.com/ENERGYMACARON) |
+| <img src="https://github.com/.png" width="100"> | <img src="https://github.com/.png" width="100"> | <img src="https://github.com/.png" width="100"> | <img src="https://github.com/ENERGYMACARON.png" width="100"> |
+| :---: | :---: | :---: | :---: |
+| [팀원이름](https://github.com/GitHubID) | [팀원이름](https://github.com/GitHubID) | [팀원이름](https://github.com/GitHubID) | [하현수](https://github.com/ENERGYMACARON) |
+| "" | "" | "" | "" |
 
 
 ---
