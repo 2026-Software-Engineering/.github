@@ -2,7 +2,7 @@
 
 <img src="https://github.com/2026-Software-Engineering.png" alt="Organization Logo" width="180px">
 
-# 2026 연암공대 스소과 소프트웨어공학 교과목 실습 프로젝트
+# 2026 연암공과대학교 스마트소프트웨어과 소프트웨어공학 교과목 실습 프로젝트
 > **"주요 서비스: 세탁기/건조기 사용 현황 조회 시스템"**
 
 ---
