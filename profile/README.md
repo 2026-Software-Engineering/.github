@@ -9,7 +9,8 @@
 </div>
 
 ### 🧐 배경 및 문제 정의
-연암공과대학교 기숙사는 총 **4개 관** 및 **각 3~4층** 이상의 생활 시설을 운영하고 있으나, 세탁 및 건조 시설의 **실시간 이용 현황 확인 시스템**이 부재하여 학생들에게 다음과 같은 고질적인 불편함을 야기하고 있습니다.
+**1,102명의 재학생과 53.3%의 기숙사 수용률, 7조가 해결합니다.** <br>
+연암공과대학교 기숙사는 재학생 1,102명이 이용하며, **수용률이 53.3%**에 달하는 대규모 공동생활 시설입니다. 하지만 실시간 이용 현황 확인 시스템이 부재하여 학생들에게 다음과 같은 고질적인 불편함을 야기하고 있습니다:
 * **🚶 불필요한 동선 발생:** 세탁물을 들고 내려왔으나 모든 기계가 사용 중인 경우, 빈 기계가 생길 때까지 생활실을 반복적으로 오가야 하는 낭비가 발생합니다.
 * **⏰ 대기 시간 예측 불가:** 기계별 남은 세탁/건조 시간을 미리 알 수 없어, 무작정 대기하거나 제시간에 맞춰 방문하더라도 타 사용자가 먼저 점유하는 상황이 빈번합니다.
 * **🔄 세탁물 방치 문제:** 세탁이 끝난 후 즉시 수거되지 않는 기계들로 인해 실제 가동되지 않음에도 불구하고 다음 사용자가 이용하지 못하는 비효율성이 존재합니다.
@@ -31,6 +32,7 @@
 | Category | Stack |
 | :--- | :--- |
 | **Frontend** | ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 | **Database** | ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
 | **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
