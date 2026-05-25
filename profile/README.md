@@ -42,7 +42,7 @@
 | <img src="https://github.com/anyway3.png" width="100"> | <img src="https://github.com/hunmin121.png" width="100"> | <img src="https://github.com/aengjins.png" width="100"> | <img src="https://github.com/ENERGYMACARON.png" width="100"> |
 | :---: | :---: | :---: | :---: |
 | [안지호](https://github.com/anyway3) | [정훈민](https://github.com/hunmin121) | [한영진](https://github.com/aengjins) | [하현수](https://github.com/ENERGYMACARON) |
-| "**Hardware** & Database" | "**Database & Frontend**" | "**Frontend** & Database" | "**PM & QA**" |
+| "**Hardware** & Database" | "**Database & Frontend**" | "**Frontend** & Database" | "**PM**" |
 
 
 ---
